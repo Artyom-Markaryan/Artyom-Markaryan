@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello World! Je suis Artyom Markraryan
+Étudiant en `Technique de l'informatique` au *Cégep André-Laurendeau*
 
-<!--
-**Artyom-Markaryan/Artyom-Markaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Liens sociaux
++ [GitHub](https://github.com/Artyom-Markaryan)  
++ LinkedIn
 
-Here are some ideas to get you started:
+# 💻 Mes compétences et connaissances
+### — Java
++ Spring Boot
++ JDBC
++ MySQL
++ SQLite
+### — HTML, CSS & JavaScript
++ React + Vite
++ TailwindCSS
++ Bootstrap
+### — Python
+### — C & C++
+### — Dart
++ Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Mes projets
+Vide pour l'instant (；′⌒`)

@@ -16,7 +16,6 @@
 + TailwindCSS
 + Bootstrap
 ### — Python
-### — C & C++
 ### — Dart
 + Flutter
 
